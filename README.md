@@ -1,7 +1,8 @@
-Webservice Calculator
+##Webservice Calculator
+
 Webservice Calculator is a simple web application that allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division. This project was inspired by my desire to create a simple and user-friendly calculator that anyone can use without any prior knowledge of programming or complex mathematics. The goal was to create a web-based calculator that can be accessed from any device with an internet connection.
 
-Technology & Architecture
+##Technology & Architecture
 The calculator is built using HTML, CSS, and JavaScript. It uses the DOM to display the user interface and to process user input. The calculator logic is implemented in JavaScript, and it uses the eval() function to evaluate the user's mathematical expression. The application is deployed on Heroku, which provides a free hosting service for small-scale applications.
 
 Core Algorithms and Code Snippet
